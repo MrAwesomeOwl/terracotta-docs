@@ -1,5 +1,8 @@
 # Terracotta
 
+!!! danger "This is the documentation site for the old version of Terracotta."
+    To access the docs for the new beta (the one with the actually good syntax that people have been using recently) go to [https://owlfroggy.github.io/terracotta-beta-docs/](https://owlfroggy.github.io/terracotta-beta-docs/)
+
 !!! warning "WIP"
     These docs are very work in progress! If you have any questions about Terracotta not answered by this incomplete documentation, ask in [the Discord server](https://discord.gg/at9uBFXPxy).
 
